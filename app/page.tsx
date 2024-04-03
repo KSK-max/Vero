@@ -11,7 +11,7 @@ export default function Home() {
         />
       </div>
 
-      <p className="z-10 text-xl text-gray-600 mt-32 -ml-20">
+      <p className="z-10 text-l text-gray-600 mt-32 -ml-20">
         Empowering Smart Decisions for Startups
       </p>
     </main>
